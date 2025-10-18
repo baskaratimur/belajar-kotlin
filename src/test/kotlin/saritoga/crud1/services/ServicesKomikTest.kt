@@ -4,8 +4,6 @@ import io.mockk.*
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
-import saritoga.crud1.model.ModelKomik
-import saritoga.crud1.repository.RepositoryKomik
 import java.util.*
 
 class ServicesKomikTest {
